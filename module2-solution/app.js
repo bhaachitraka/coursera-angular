@@ -37,6 +37,14 @@
       {
         name: "cereals",
         quantity: "2"
+      },
+      {
+        name: "eggs",
+        quantity: "12"
+      },
+      {
+        name: "bread",
+        quantity: "1"
       }
     ];
     var alreadyBoughtList =[];
